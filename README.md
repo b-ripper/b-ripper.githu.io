@@ -1,1 +1,1 @@
-# b-ripper.githu.io
+# b-ripper.github.io
